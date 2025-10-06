@@ -1,2 +1,2 @@
-# Github and git conflict
+# Github and git
 Spring 2022 Bachelors in Science
